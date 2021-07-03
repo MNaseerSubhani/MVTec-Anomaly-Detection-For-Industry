@@ -219,4 +219,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Adrian Rosebrock, founder of the website [pyimagesearch](https://www.pyimagesearch.com/) for computer vision.
 
 
-Note : get this code from https://github.com/AdneneBoumessouer/MVTec-Anomaly-Detection
+Note : I Acknowledge the contribution from https://github.com/AdneneBoumessouer/MVTec-Anomaly-Detection
