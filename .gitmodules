@@ -1,0 +1,3 @@
+[submodule "MVTec-Anomaly-Detection"]
+	path = MVTec-Anomaly-Detection
+	url = https://github.com/AdneneBoumessouer/MVTec-Anomaly-Detection.git
